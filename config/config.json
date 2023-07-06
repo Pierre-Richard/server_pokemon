@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Laparole129@!",
+    "database": "DB_pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password":  "Laparole129@!",
+    "database": "DB_pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password":  "Laparole129@!",
+    "database": "DB_pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
